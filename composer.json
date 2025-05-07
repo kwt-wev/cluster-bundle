@@ -7,6 +7,12 @@
         "kwt-wev\\clusterBundle\\": "src/"
       }
     },
+    "repositories": [
+        {
+             "type": "path",
+            "url": "https://github.com/kwt-wev/cluster-bundle"
+        }
+    ],
   "minimum-stability": "dev",
   "prefer-stable": true,
     "require": {}
