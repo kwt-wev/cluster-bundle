@@ -3,7 +3,7 @@
   "type": "symfony-bundle",
   "autoload": {
     "psr-4": {
-      "kwt-wev\\clusterBundle\\": "src/"
+      "kwt-wev\\cluster-bundle\\": "src/"
     }
   },
 "minimum-stability": "dev",
