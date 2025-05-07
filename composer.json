@@ -1,7 +1,7 @@
 {
     "name": "kwt-wev/cluster-bundle",
     "type": "symfony-bundle",
-     "homepage": "https://github.com/kwt-wev/cluster-bundle.git",
+     "homepage": "https://github.com/kwt-wev/cluster-bundle",
     "autoload": {
       "psr-4": {
         "kwt-wev\\clusterBundle\\": "src/"
