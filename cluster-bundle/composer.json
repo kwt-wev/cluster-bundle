@@ -1,6 +1,6 @@
 {
   "name": "cluster-bundle/cluster-bundle",
-  "type": "library",
+  "type": "symfony-bundle",
   "autoload": {
     "psr-4": {
       "cluster-bundle\\cluster-bundle\\": "src/"
