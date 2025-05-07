@@ -1,5 +1,5 @@
 {
-    "name": "cluster-bundle/cluster-bundle",
+    "name": "kwt-wev/cluster-bundle",
     "type": "symfony-bundle",
     "homepage": "https://github.com/kwt-wev/cluster-bundle",
     "license": "MIT",
